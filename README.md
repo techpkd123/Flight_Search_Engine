@@ -7,6 +7,7 @@
 $ git clone https://github.com/techpkd123/Flight_Search_Engine
 
 In the project directory,run:
+
 $ npm i
 
 $ npm start
